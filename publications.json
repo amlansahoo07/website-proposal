@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Active Sensing for Data Quality Improvement in Model Learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:qxL8FJ1GzNcC",
+        "authors": "O Napolitano, M Cognetti, L Pallottino, D Kanoulas, P Salaris, V Modugno",
+        "year": "2024"
+    },
+    {
+        "title": "Transformer-Based Prediction of Human Motions and Contact Forces for Physical Human-Robot Interaction",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:Wp0gIr-vW9MC",
+        "authors": "A Fusco, V Modugno, D Kanoulas, A Rizzo, M Cognetti",
+        "year": "2024"
+    },
+    {
+        "title": "DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:9ZlFYXVOiuMC",
+        "authors": "W Wu, G Wang, T Deng, S Aegidius, S Shanks, V Modugno, D Kanoulas, ...",
+        "year": "2024"
+    },
+    {
+        "title": "On the Benefits of GPU Sample-Based Stochastic Predictive Controllers for Legged Locomotion",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:mVmsd5A6BfQC",
+        "authors": "G Turrisi, V Modugno, L Amatucci, D Kanoulas, C Semini",
+        "year": "2024"
+    },
+    {
+        "title": "ViT-A*: Legged Robot Path Planning using Vision Transformer A",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:aqlVkmm33-oC",
+        "authors": "J Liu, S Lyu, D Hadjivelichkov, V Modugno, D Kanoulas",
+        "year": "2023"
+    },
+    {
+        "title": "End-to-End Stable Imitation Learning via Autonomous Neural Dynamic Policies",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:_kc_bZDykSQC",
+        "authors": "D Totsila, K Chatzilygeroudis, D Hadjivelichkov, V Modugno, ...",
+        "year": "2023"
+    },
+    {
+        "title": "Learning needle pick-and-place without expert demonstrations",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:ULOm3_A8WrAC",
+        "authors": "R Bendikas, V Modugno, D Kanoulas, F Vasconcelos, D Stoyanov",
+        "year": "2023"
+    },
+    {
+        "title": "Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:4DMP91E08xMC",
+        "authors": "D Totsila, K Chatzilygeroudis, D Hadjivelichkov, V Modugno, D Kanoulas, ...",
+        "year": "2023"
+    },
+    {
+        "title": "Local navigation among movable obstacles with deep reinforcement learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:Zph67rFs4hoC",
+        "authors": "L Yao, V Modugno, Y Liu, D Stoyanov, D Kanoulas",
+        "year": "2023"
+    },
+    {
+        "title": "Local Path Planning among Pushable Objects based on Reinforcement Learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:dhFuZR0502QC",
+        "authors": "L Yao, V Modugno, AM Delfaki, Y Liu, D Stoyanov, D Kanoulas",
+        "year": "2023"
+    },
+    {
+        "title": "Navigation among movable obstacles via multi-object pushing into storage zones",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:KlAtU1dfN6UC",
+        "authors": "K Ellis, D Hadjivelichkov, V Modugno, D Stoyanov, D Kanoulas",
+        "year": "2023"
+    },
+    {
+        "title": "Exploiting Robot Redundancy for Online Learning and Control",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:YOwf2qJgpHMC",
+        "authors": "M Ficorilli, M Capotondi, V Modugno, A De Luca",
+        "year": "2022"
+    },
+    {
+        "title": "On-line learning for planning and control of underactuated robots with uncertain dynamics",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:5nxA0vEk-isC",
+        "authors": "G Turrisi, M Capotondi, C Gaz, V Modugno, G Oriolo, A De Luca",
+        "year": "2021"
+    },
+    {
+        "title": "Identification of Robot Dynamics from Motor Currents/Torques with Unknown Signs",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:MXK_kJrjxJIC",
+        "authors": "M Pennese, C Gaz, M Capotondi, V Modugno, A De Luca",
+        "year": "2021"
+    },
+    {
+        "title": "Bayesian neural network modeling and hierarchical MPC for a tendon-driven surgical robot with uncertainty minimization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:0EnyYjriUFMC",
+        "authors": "F Cursi, V Modugno, L Lanari, G Oriolo, P Kormushev",
+        "year": "2021"
+    },
+    {
+        "title": "Learning Feedback Linearization Control Without Torque Measurements",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:hqOjcs7Dif8C",
+        "authors": "M Capotondi, G Turrisi, C Gaz, V Modugno, G Oriolo, A De Luca",
+        "year": "2020"
+    },
+    {
+        "title": "Model Predictive Control for a Tendon-Driven Surgical Robot with Safety Constraints in Kinematics and Dynamics",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:UebtZRa9Y70C",
+        "authors": "F Cursi, V Modugno, P Kormushev",
+        "year": "2020"
+    },
+    {
+        "title": "Enforcing Constraints over Learned Policies via Nonlinear MPC: Application to the Pendubot",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:Se3iqnhoufwC",
+        "authors": "G Turrisi, BB Carlos, M Cefalo, V Modugno, L Lanari, G Oriolo",
+        "year": "2020"
+    },
+    {
+        "title": "ZMP constraint restriction for robust gait generation in humanoids",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:roLk4NBRz8UC",
+        "authors": "FM Smaldone, N Scianca, V Modugno, L Lanari, G Oriolo",
+        "year": "2020"
+    },
+    {
+        "title": "Learning robust task priorities and gains for control of redundant robots",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=YEz4REYAAAAJ&sortby=pubdate&citation_for_view=YEz4REYAAAAJ:LkGwnXOMwfcC",
+        "authors": "L Penco, EM Hoffman, V Modugno, W Gomes, JB Mouret, S Ivaldi",
+        "year": "2020"
+    }
+]

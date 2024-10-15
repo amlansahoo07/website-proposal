@@ -1,0 +1,114 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #041E42;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 15px; /* Adjust padding to increase/decrease space between links */
+    line-height: 80px; /* Vertically align the links with the navbar height */
+}
+
+.nav-item {
+    padding: 0px 8px;
+}
+
+.navbar-toggler {
+    margin-top: 5px; /* Adjust for mobile view if needed */
+    margin-bottom: 5px;
+}
+
+
+/* Make sure the links are visible on smaller screens */
+.navbar-nav .nav-link {
+    color: white; /* Ensures the text is readable on the blue background */
+}
+
+/* Make the navbar background cover the entire screen when expanded */
+.navbar-collapse {
+    background-color: #041E42; /* The same blue tone as your navbar */
+}
+
+/* Ensure that the content is pushed down when the navbar is expanded */
+.navbar-collapse.collapsing,
+.navbar-collapse.show {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+/* Push the content down */
+.navbar-collapse.show + .container {
+    margin-top: 200px; /* Adjust this value to suit the amount of space needed */
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+img.rounded-circle {
+    border: 2px solid #041E42;
+}
+
+.carousel-caption h5 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.about p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3, p {
+    margin-bottom: 0.1rem;
+}
+
+
+/* Carousel Image Resizing */
+.carousel-inner img {
+    width: 100%;
+    max-width: 800px; /* Set the maximum width of the carousel images */
+    max-height: 400px; /* Set the maximum height of the carousel images */
+    margin: 0 auto; /* Center the image within the carousel */
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #041E42;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    color: #cccccc; /* Change link color on hover */
+}
